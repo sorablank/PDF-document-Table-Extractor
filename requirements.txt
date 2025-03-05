@@ -1,0 +1,4 @@
+echo "streamlit" > requirements.txt
+echo "pdfplumber" >> requirements.txt
+echo "pandas" >> requirements.txt
+echo "openpyxl" >> requirements.txt
